@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" object-fit="cover" src="https://github.com/ayush-2302/ayush-2302/blob/main/mybanner.jpeg" alt="logo" style="width: 100%; "/>
+  <img src="https://github.com/ayush-2302/ayush-2302/blob/main/mybanner.jpeg" alt="logo"   style="width: 100%; height: 300px; object-fit: cover;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
