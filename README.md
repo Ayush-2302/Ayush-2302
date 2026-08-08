@@ -35,7 +35,7 @@ Tools       : Postman, Playwright, Salesforce API, Wrike API, Gmail API
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-2302&theme=dark&show_icons=true&locale=en" alt="Ayush-2302 stats" />
+  <img src="https://raw.githubusercontent.com/Ayush-2302/Ayush-2302/output/github-contribution-grid-snake-dark.svg" alt="Ayush-2302 snake animation" />
 </p>
 
 <p align="center">
