@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ayush-2302/ayush-2302/blob/main/ayushbanner.png" alt="logo"   style="width: 100%; height: 300px; object-fit: cover;"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Full Stack Developer · Automation & AI-Driven Web Solutions</h3>
 
