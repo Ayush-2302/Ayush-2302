@@ -1,37 +1,43 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Full Stack Developer · Automation & AI-Driven Web Solutions</h3>
+👋 Hi there, I'm Ayush
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-2302&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-2302" /> </p>
+🚀 Full-Stack Developer | MERN & Next.js Specialist | Automation & AI Integrations | API Architect
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="envcoder" />
+## 💻 About Me
 
-### 🚀 About Me
+I'm a passionate developer focused on building scalable full-stack applications, modern APIs, and automation-driven web systems. Over the years, I've worked across CRM automation, AI-powered QA tooling, civic platforms, LMS systems, and admin panels — shipping production apps end-to-end with React, Next.js, Node.js, and SQL/NoSQL databases.
 
-- 🔭 Currently building **automation-driven web apps** and internal tools at scale.  
-- 🌱 Exploring **scalable full-stack architecture, AI integrations (OpenAI, Gemini)**, and better DevEx.  
-- 👨‍💻 Portfolio: **[ayush07.netlify.app](https://ayush07.netlify.app/)**  
-- 💬 Ask me about **full-stack architecture, admin panels, and API design**.  
-- 📫 Reach me at **ayushkumarakt@gmail.com**  
-- ⚡ Fun fact: I can write clean code while vibing to my favorite tracks.
+I love working with:
 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ayushku48810879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayushku48810879" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-kumar-3b9798270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-3b9798270" height="30" width="40" /></a>
-<a href="https://instagram.com/being_a_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being_a_07" height="30" width="40" /></a>
-</p>
+- ⚛️ React.js & Next.js (Core expertise)
+- 🟩 Node.js & Express.js (Advanced)
+- 🍃 MongoDB | 🐬 MySQL
+- ☁️ AWS (S3, EC2)
+- 🔐 JWT, OAuth2, RBAC
+- 🧠 AI/LLM integrations — OpenAI & Google Gemini
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🔨 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-2302&theme=dark&show_icons=true&locale=en&layout=compact" alt="ayush-2302" /></p>
+```
+Frontend    : React.js, Next.js, Redux, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
+Backend     : Node.js, Express.js, FastAPI, REST APIs, WebSockets
+Database    : MongoDB, MySQL
+DevOps      : AWS (S3, EC2), Vercel, Netlify, Git, GitHub
+Tools       : Postman, Playwright, Salesforce API, Wrike API, Gmail API
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-2302&theme=dark&show_icons=true&locale=en" alt="ayush-2302" /></p>
+## 📫 Connect with Me
+
+- LinkedIn: linkedin.com/in/ayush-kumar-3b9798270
+- Twitter: @ayushku48810879
+- Email: ayushkumarakt@gmail.com
+- Portfolio: ayush07.netlify.app
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=ayush-2302&theme=dark&hide_border=false"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-2302&theme=dark&show_icons=true&locale=en" alt="Ayush-2302 stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ayush-2302&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
